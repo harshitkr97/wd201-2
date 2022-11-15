@@ -1,0 +1,26 @@
+{
+  "name": "wd201_level2_milestone",
+  "version": "1.0.0",
+  "description": "Milestone project for Level-2 of WD-201 course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "project",
+    "wd-201"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
